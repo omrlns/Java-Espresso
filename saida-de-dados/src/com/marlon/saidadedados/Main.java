@@ -14,7 +14,7 @@ public class Main {
         System.out.println(altura);
         Locale.setDefault(Locale.US);
         System.out.printf("%.2f%n", valorC);
-        System.out.println("O Marlon tem: " + altura + " metros de altura.");
+        System.out.printf("O Marlon tem %.2f metros de altura!%n", altura);
 
     }
 }
