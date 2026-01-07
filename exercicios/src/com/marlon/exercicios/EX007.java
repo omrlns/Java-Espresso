@@ -1,3 +1,5 @@
+// fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar.
+
 package com.marlon.exercicios;
 
 import java.util.Scanner;
