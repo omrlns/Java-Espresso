@@ -15,6 +15,10 @@ public class For {
             soma += valorX;
         }
 
+        for (int i = 0; i < nValores; i++) {
+            // contagem
+            System.out.printf("VALOR DE I: %d%n", i);
+        }
 
         System.out.printf("A SOMA DOS VALORES DIGITADOS É: %d", soma);
         sc.close();
