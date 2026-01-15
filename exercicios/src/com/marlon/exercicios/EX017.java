@@ -17,5 +17,7 @@ public class EX017 {
             }
         }
 
+        sc.close();
+
     }
 }
