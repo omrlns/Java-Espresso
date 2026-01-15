@@ -10,7 +10,7 @@ public class For {
         int nValores = sc.nextInt();
         int soma = 0;
 
-        for (int i = 0; i < nValores; i += 1) {
+        for (int i = 0; i < nValores; i++) {
             int valorX = sc.nextInt();
             soma += valorX;
         }
